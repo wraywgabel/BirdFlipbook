@@ -1,0 +1,123 @@
+Filename,WRPText,MonthText,EventText,LocationText,Prefix
+a_01.png,,,,,a
+a_02.png,,,,,a
+a_03.png,,,,,a
+a_04.png,,,,,a
+a_05.png,,,,,a
+a_06.png,,,,,a
+a_07.png,,,,,a
+a_08.png,,,,,a
+a_09.png,,,,,a
+a_10.png,,,,,a
+a_11.png,,,,,a
+a_12.png,,,,,a
+a_13.png,,,,,a
+a_14.png,,,,,a
+a_15.png,,,,,a
+b_16.png,,,,,b
+b_17.png,,,,,b
+b_18.png,,,,,b
+b_19.png,,,,,b
+b_20.png,,,,,b
+b_21.png,,,,,b
+b_22.png,,,,,b
+b_23.png,,,,,b
+b_24.png,,,,,b
+b_25.png,,,,,b
+b_26.png,,,,,b
+b_27.png,,,,,b
+b_28.png,,,,,b
+b_29.png,,,,,b
+b_30.png,,,,,b
+c_31.png,FCJ,June,,Summer Grounds,c
+c_32.png,FCJ,June,,Summer Grounds,c
+c_33.png,FCJ,June,,Summer Grounds,c
+c_34.png,FCJ,June,,Summer Grounds,c
+c_35.png,FCJ,June,,Summer Grounds,c
+c_36.png,FPF,July,,Summer Grounds,c
+c_37.png,FPF,July,,Summer Grounds,c
+c_38.png,FPF,July,,Summer Grounds,c
+c_39.png,FPF,July,,Summer Grounds,c
+c_40.png,FPF,July,,Summer Grounds,c
+c_41.png,FPF,July,,Summer Grounds,c
+c_42.png,FPF,July,,Summer Grounds,c
+c_43.png,FCF,August,,Summer Grounds,c
+c_44.png,FCF,August,Migration (Bye!),,c
+c_45.png,FCF,August,Migration (Bye!),,c
+c_46.png,FCF,September,,Wintering Grounds,c
+c_47.png,FCF,September,,Wintering Grounds,c
+c_48.png,FCF,October,,Wintering Grounds,c
+c_49.png,FCF,October,,Wintering Grounds,c
+c_50.png,FPA,November,,Wintering Grounds,c
+c_51.png,FPA,November,,Wintering Grounds,c
+c_52.png,FPA,December,,Wintering Grounds,c
+c_53.png,FPA,December,,Wintering Grounds,c
+c_54.png,FPA,January,,Wintering Grounds,c
+c_55.png,FPA,January,,Wintering Grounds,c
+c_56.png,FPA,February,,Wintering Grounds,c
+c_57.png,FPA,February,,Wintering Grounds,c
+c_58.png,FCA,March,Migration (Hello!),,c
+c_59.png,FCA,March,Migration (Hello!),,c
+c_60.png,FCA,April,Breeding Season,Summer Grounds,c
+c_61.png,FCA,April,Breeding Season,Summer Grounds,c
+c_62.png,FCA,May,Breeding Season,Summer Grounds,c
+c_63.png,FCA,May,Breeding Season,Summer Grounds,c
+d_64.png,SPB,June,,Summer Grounds,d
+d_65.png,SPB,June,,Summer Grounds,d
+d_66.png,SPB,June,,Summer Grounds,d
+d_67.png,SPB,June,,Summer Grounds,d
+d_68.png,SPB,June,,Summer Grounds,d
+d_69.png,SPB,June,,Summer Grounds,d
+d_70.png,SPB,June,,Summer Grounds,d
+d_71.png,SPB,June,,Summer Grounds,d
+d_72.png,SPB,June,,Summer Grounds,d
+d_73.png,SPB,July,,Summer Grounds,d
+d_74.png,SPB,July,,Summer Grounds,d
+d_75.png,SPB,July,,Summer Grounds,d
+d_76.png,SPB,July,,Summer Grounds,d
+d_77.png,SPB,July,,Summer Grounds,d
+d_78.png,SPB,July,,Summer Grounds,d
+d_79.png,SPB,July,,Summer Grounds,d
+d_80.png,SPB,July,,Summer Grounds,d
+d_81.png,SPB,July,,Summer Grounds,d
+d_82.png,SPB,July,,Summer Grounds,d
+,,,,,
+ib_100.png,SPB,July,,Summer Grounds,ib
+ib_101.png,SPB,July,,Summer Grounds,ib
+ib_102.png,SCB/DCB,July,,Summer Grounds,ib
+ib_103.png,SCB/DCB,August,Migration (Bye!),,ib
+ib_104.png,SCB/DCB,August,Migration (Bye!),,ib
+ib_105.png,SCB/DCB,September,,Wintering Grounds,i
+ib_106.png,SCB/DCB,September,,Wintering Grounds,i
+ib_107.png,SCB/DCB,October,,Wintering Grounds,i
+k_123.png,SCB/DCB,October,,Wintering Grounds,i
+k_124.png,SCB/DCB,November,,Wintering Grounds,i
+k_125.png,SCB/DCB,November,,Wintering Grounds,i
+k_126.png,SCB/DCB,December,,Wintering Grounds,i
+k_127.png,SCB/DCB,December,,Wintering Grounds,i
+m_128.png,SCB/DCB,January,,Wintering Grounds,i
+m_129.png,SCB/DCB,January,,Wintering Grounds,i
+m_130.png,SCB/DCB,February,,Wintering Grounds,j
+m_131.png,SCB/DCB,February,,Wintering Grounds,j
+m_132.png,SCB/DCB,March,Migration (Hello!),,k
+m_133.png,SCB/DCB,March,Migration (Hello!),,k
+o_141.png,DPB,June,,Summer Grounds,o
+o_142.png,DPB,June,,Summer Grounds,o
+o_143.png,DPB,June,,Summer Grounds,o
+o_144.png,DPB,June,,Summer Grounds,o
+o_145.png,DPB,June,,Summer Grounds,o
+o_146.png,DPB,June,,Summer Grounds,o
+o_147.png,DPB,June,,Summer Grounds,o
+o_148.png,DPB,June,,Summer Grounds,o
+o_149.png,DPB,June,,Summer Grounds,o
+o_150.png,DPB,June,,Summer Grounds,o
+o_151.png,DPB,July,,Summer Grounds,o
+o_152.png,DPB,July,,Summer Grounds,o
+o_153.png,DPB,July,,Summer Grounds,o
+o_154.png,DPB,July,,Summer Grounds,o
+o_155.png,DPB,July,,Summer Grounds,o
+o_156.png,DPB,July,,Summer Grounds,o
+o_157.png,DPB,July,,Summer Grounds,o
+o_158.png,DPB,July,,Summer Grounds,o
+o_159.png,DPB,July,,Summer Grounds,o
+o_160.png,DCB,August,,Summer Grounds,o

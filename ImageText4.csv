@@ -1,0 +1,161 @@
+Filename,WRPText,MonthText,CycleText,LocationText,Prefix
+a_01.png,,,,,a
+a_02.png,,,,,a
+a_03.png,,,,,a
+a_04.png,,,,,a
+a_05.png,,,,,a
+a_06.png,,,,,a
+a_07.png,,,,,a
+a_08.png,,,,,a
+a_09.png,,,,,a
+a_10.png,,,,,a
+a_11.png,,,,,a
+a_12.png,,,,,a
+a_13.png,,,,,a
+a_14.png,,,,,a
+a_15.png,,,,,a
+b_16.png,,,,,b
+b_17.png,,,,,b
+b_18.png,,,,,b
+b_19.png,,,,,b
+b_20.png,,,,,b
+b_21.png,,,,,b
+b_22.png,,,,,b
+b_23.png,,,,,b
+b_24.png,,,,,b
+b_25.png,,,,,b
+b_26.png,,,,,b
+b_27.png,,,,,b
+b_28.png,,,,,b
+b_29.png,,,,,b
+b_30.png,,,,,b
+c_31.png,FCJ,June,Cycle 1,Summer Grounds,c
+c_32.png,FCJ,June,Cycle 1,Summer Grounds,c
+c_33.png,FCJ,June,Cycle 1,Summer Grounds,c
+c_34.png,FCJ,June,Cycle 1,Summer Grounds,c
+c_35.png,FCJ,June,Cycle 1,Summer Grounds,c
+c_36.png,FPF,July,,Summer Grounds,c
+c_37.png,FPF,July,,Summer Grounds,c
+c_38.png,FPF,July,,Summer Grounds,c
+c_39.png,FPF,July,,Summer Grounds,c
+c_40.png,FPF,July,,Summer Grounds,c
+c_41.png,FPF,July,,Summer Grounds,c
+c_42.png,FPF,July,,Summer Grounds,c
+c_43.png,FCF,August,Cycle 1,Migration,c
+c_44.png,FCF,August,Cycle 1,Migration,c
+c_46.png,FCF,September,Cycle 1,Wintering Grounds,c
+c_47.png,FCF,September,Cycle 1,Wintering Grounds,c
+c_48.png,FCF,October,Cycle 1,Wintering Grounds,c
+c_49.png,FCF,October,Cycle 1,Wintering Grounds,c
+c_50.png,FCF,November,Cycle 1,Wintering Grounds,c
+c_51.png,FCF,November,Cycle 1,Wintering Grounds,c
+c_52.png,FCF,December,Cycle 1,Wintering Grounds,c
+c_53.png,FCF,December,Cycle 1,Wintering Grounds,c
+c_54.png,FCF,January,Cycle 1,Wintering Grounds,c
+c_55.png,FCF,January,Cycle 1,Wintering Grounds,c
+c_56.png,FCF,February,Cycle 1,Wintering Grounds,c
+c_57.png,FCF,February,Cycle 1,Wintering Grounds,c
+c_58.png,FCF,March,Cycle 1,Migration,c
+c_59.png,FCF,March,Cycle 1,Migration,c
+c_60.png,FCF,April,Cycle 1,Summer Grounds,c
+c_61.png,FCF,April,Cycle 1,Summer Grounds,c
+c_62.png,FCF,May,Cycle 1,Summer Grounds,c
+c_63.png,FCF,May,Cycle 1,Summer Grounds,c
+i_84.png,SPB,June,,Summer Grounds,i
+i_85.png,SPB,June,,Summer Grounds,i
+i_86.png,SPB,June,,Summer Grounds,i
+i_87.png,SPB,June,,Summer Grounds,i
+i_88.png,SPB,June,,Summer Grounds,i
+i_89.png,SPB,June,,Summer Grounds,i
+i_90.png,SPB,June,,Summer Grounds,i
+i_91.png,SPB,June,,Summer Grounds,i
+i_92.png,SPB,June,,Summer Grounds,i
+i_93.png,SPB,July,,Summer Grounds,i
+i_94.png,SPB,July,,Summer Grounds,i
+i_95.png,SPB,July,,Summer Grounds,i
+i_96.png,SPB,July,,Summer Grounds,i
+i_97.png,SPB,July,,Summer Grounds,i
+i_98.png,SPB,July,,Summer Grounds,i
+i_99.png,SPB,July,,Summer Grounds,i
+ib_100.png,SPB,July,,Summer Grounds,ib
+ib_101.png,SPB,July,,Summer Grounds,ib
+ib_102.png,SCB/DCB,July,Cycle 2,Summer Grounds,ib
+ib_103.png,SCB/DCB,August,Cycle 2,Migration,ib
+ib_104.png,SCB/DCB,August,Cycle 2,Migration,ib
+ib_105.png,SCB/DCB,September,Cycle 2,Wintering Grounds,ib
+ib_106.png,SCB/DCB,September,Cycle 2,Wintering Grounds,ib
+ib_107.png,SCB/DCB,October,Cycle 2,Wintering Grounds,ib
+k_123.png,SCB/DCB,October,Cycle 2,Wintering Grounds,k
+k_124.png,SCB/DCB,November,Cycle 2,Wintering Grounds,k
+k_125.png,SCB/DCB,November,Cycle 2,Wintering Grounds,k
+k_126.png,SCB/DCB,December,Cycle 2,Wintering Grounds,k
+k_127.png,SCB/DCB,December,Cycle 2,Wintering Grounds,k
+m_128.png,SCB/DCB,January,Cycle 2,Wintering Grounds,m
+m_129.png,SCB/DCB,January,Cycle 2,Wintering Grounds,m
+m_130.png,SCB/DCB,February,Cycle 2,Wintering Grounds,m
+m_131.png,SCB/DCB,February,Cycle 2,Wintering Grounds,m
+m_132.png,SCB/DCB,March,Cycle 2,Migration,m
+m_133.png,SCB/DCB,March,Cycle 2,Migration,m
+m_136.png,SCB/DCB,April,Cycle 2,Summer Grounds,m
+m_137.png,SCB/DCB,April,Cycle 2,Summer Grounds,m
+m_138.png,SCB/DCB,May,Cycle 2,Summer Grounds,m
+m_139.png,SCB/DCB,May,Cycle 2,Summer Grounds,m
+o_141.png,DPB,June,,Summer Grounds,o
+o_142.png,DPB,June,,Summer Grounds,o
+o_143.png,DPB,June,,Summer Grounds,o
+o_144.png,DPB,June,,Summer Grounds,o
+o_145.png,DPB,June,,Summer Grounds,o
+o_146.png,DPB,June,,Summer Grounds,o
+o_147.png,DPB,June,,Summer Grounds,o
+o_148.png,DPB,June,,Summer Grounds,o
+o_149.png,DPB,June,,Summer Grounds,o
+o_150.png,DPB,June,,Summer Grounds,o
+o_151.png,DPB,July,,Summer Grounds,o
+o_152.png,DPB,July,,Summer Grounds,o
+o_153.png,DPB,July,,Summer Grounds,o
+o_154.png,DPB,July,,Summer Grounds,o
+o_155.png,DPB,July,,Summer Grounds,o
+o_156.png,DPB,July,,Summer Grounds,o
+o_157.png,DPB,July,,Summer Grounds,o
+o_158.png,DPB,July,,Summer Grounds,o
+o_159.png,DPB,July,,Summer Grounds,o
+o_160.png,DCB,August,Cycle 3,Migration,o
+o_161.png,DCB,August,Cycle 3,Migration,o
+p_162.png,DCB,September,Cycle 3,Wintering Grounds,
+p_163.png,DCB,September,Cycle 3,Wintering Grounds,
+p_164.png,DCB,October,Cycle 3,Wintering Grounds,
+p_165.png,DCB,October,Cycle 3,Wintering Grounds,
+p_166.png,DCB,November,Cycle 3,Wintering Grounds,
+p_167.png,DCB,November,Cycle 3,Wintering Grounds,
+p_168.png,DCB,December,Cycle 3,Wintering Grounds,
+p_169.png,DCB,December,Cycle 3,Wintering Grounds,
+p_170.png,DCB,January,Cycle 3,Wintering Grounds,
+p_171.png,DCB,January,Cycle 3,Wintering Grounds,
+p_172.png,DCB,February,Cycle 3,Wintering Grounds,
+p_173.png,DCB,February,Cycle 3,Wintering Grounds,
+p_174.png,DCB,March,Cycle 3,Migration,
+p_175.png,DCB,March,Cycle 3,Migration,
+p_178.png,DCB,April,Cycle 3,Summer Grounds,
+p_179.png,DCB,April,Cycle 3,Summer Grounds,
+p_180.png,DCB,May,Cycle 3,Summer Grounds,
+p_184.png,DCB,May,Cycle 3,Summer Grounds,
+p_185.png,DPB,June,,Summer Grounds,
+p_186.png,DPB,June,,Summer Grounds,
+p_187.png,DPB,June,,Summer Grounds,
+p_188.png,DPB,June,,Summer Grounds,
+p_189.png,DPB,June,,Summer Grounds,
+p_190.png,DPB,June,,Summer Grounds,
+p_191.png,DPB,June,,Summer Grounds,
+p_192.png,DPB,June,,Summer Grounds,
+p_193.png,DPB,June,,Summer Grounds,
+p_194.png,DPB,June,,Summer Grounds,
+p_195.png,DPB,July,,Summer Grounds,
+p_196.png,DPB,July,,Summer Grounds,
+p_197.png,DPB,July,,Summer Grounds,
+p_198.png,DPB,July,,Summer Grounds,
+p_199.png,DPB,July,,Summer Grounds,
+p_200.png,DPB,July,,Summer Grounds,
+p_201.png,DPB,July,,Summer Grounds,
+p_202.png,DPB,July,,Summer Grounds,
+p_203.png,DCB,August,,Summer Grounds,
+p_204.png,DCB,August,,Summer Grounds,
